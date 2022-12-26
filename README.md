@@ -6,7 +6,7 @@ Here is everything you need to know to get started with NLP. Please leave a star
 1) Clone the repository
 2) cd NLP-for-beginners 
 3) pip install -r "requirements.txt"
-4) jupyter notebook
+4) run the command "jupyter notebook" on the terminal/cmd
 
 
 
